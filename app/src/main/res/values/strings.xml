@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_JSON</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_json">Get JSON</string>
+</resources>
